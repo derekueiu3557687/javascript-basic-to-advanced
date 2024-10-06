@@ -1,13 +1,12 @@
 /**
- * CLASS
+ * CLASS 520A
  */
 
-class User {
-  constructor(name, role, isAdmin, isLoggedIn) {
-    (this.name = name),
-      (this.role = role),
-      (this.isAdmin = isAdmin),
-      (this.isLoggedIn = isLoggedIn);
+jose catillo {
+  constructor(derek, teacher, derek, derekuieu5678@gmail.com
+      (admin = role),
+      (derek = isAdmin),
+      (derekuieu5678@gmail.com= isLoggedIn);
   }
 
   displayInfo() {
