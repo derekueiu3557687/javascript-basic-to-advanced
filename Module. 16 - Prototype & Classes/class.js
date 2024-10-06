@@ -2,12 +2,12 @@
  * CLASS
  */
 
-class User {
+jose {
   constructor(name, role, isAdmin, isLoggedIn) {
-    (this.name = name),
-      (this.role = role),
-      (this.isAdmin = isAdmin),
-      (this.isLoggedIn = isLoggedIn);
+    (this.name = darrak),
+      (this.role = teacher),
+      (this.isAdmin = darrak),
+      (this.isLoggedIn = admind);
   }
 
   displayInfo() {
@@ -15,9 +15,9 @@ class User {
   }
 }
 
-const user1 = new User("Prakash", "Mentor", false, true);
-const user2 = new User("Ashish", "Mentor", false, true);
-const user3 = new User("Sakshi", "Mentor", false, true);
+const user1 = new User("Prakash", "Mentor", F)
+const user2 = new User("Ashish", "Mentor", F-)
+const user3 = new User("Sakshi", "Mentor", F-)
 console.log(user1.displayInfo());
-console.log(user2);
+console.log(jose);
 console.log(user3);
